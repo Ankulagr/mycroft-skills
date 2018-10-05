@@ -12,5 +12,6 @@
   +[submodule "NAME OF YOUR SKILL"]
   +	path = name-of-your-skill-skill
   +	url = URL.FOR.YOUR.SKILL.git
+  + pic = new_pic
  ```
  - [ ] README.md has been updated with your skill phrase and description
